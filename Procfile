@@ -1,1 +1,1 @@
-web: java -jar target/PhoneSearchPlatform-1.0.0-SNAPSHOT.jar
+web: java -jar target/PhoneSearchPlatform-0.0.1-SNAPSHOT.jar
